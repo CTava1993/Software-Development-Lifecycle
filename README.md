@@ -3,16 +3,16 @@
 This file is a Final Project submission from my SDLC course for my BA. It focused on the "lifecycle" of a software project from start to finish. Rather than a code focused course, it was more centered on team management and everything that would go into such a thing to make a finished product for an end user. The text file included had me answer questions associated to concepts like "user stories" and "scrum" to test and question what I had learned about implementing them into real world situations. That being said, many of those questions revolve around the "SNHU Travel Project", which was more or less the sample "project" that we were managing. It was simply meant to be a project in which we formed a small team to design a website for vacation travel packages. It had a few requirements to fulfill at the start like a "top 5 locations" page, but then towards the end needed to be themed around wellness and detox vacations instead. We were to demonstrate the power of Agile methodology to overcome this change and produce a project despite the hiccup.
 
 
-The following are 3 prompts requested to be answered at the end of the course in a README file:
+~~The following are 3 prompts requested to be answered at the end of the course in a README file:
 
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 User Stories are fundamentally bullet points of importance that the Product Owner drew up for the team to understand a direction the project was leading towards. While we all love to have a lot of creativity to do what we want in life, this falls apart in practice without SOME level of direction. User Stories are an excellent start to that since they label a point, show it's level of importance, have a sentence to show where the user story came from, and provide bullet points to show it's acceptance criteria.
 
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
 The answer to this question depends on the situation entirely, since there are many factors. But to answer it in a general sense? I would have to say I would approach it like I approach everything in life. Gather information on the scale and the requirements to complete the task, create a foundation of how you plan to achieve that end goal, get to work on the task, then analyze it once more to ensure it meets the requirements. This is far more nuanced in practice, but top-down problem sovling is extremely straight forward on paper. I would incorporate most of the agile processes in this course to some level in the future in professional settings since I am a very meticulous person professionally. Scrum is a great concept, Scaling will definitely be helpful in large scale operations, and anything to enhance communication is a boon.
 
-What does it mean to be a good team member in software development?
+-What does it mean to be a good team member in software development?
 
 Another question that isn't as simple as it appears, but I understand the point. To me, being a good member of a software team is akin to being a good link in the chain for any team or organization. In this, I mean that you fulfill your role. It's simple.. but there's a lot of weight behind that. By accepting a position in a company for example, you are signing a contract that you promise to work as best as you can to fill the shoes that have been offered to you. Want to be a good Product Owner? Understand what it takes to fulfill that role and meet that expectation, then follow up on it. Master it. Continue to learn how to do that job better and better. This applies to roles as straight forward as a developer of a specific piece of the project, not just the helm of it.
